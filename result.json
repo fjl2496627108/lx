@@ -1,0 +1,60 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "directory": "www-51qianduan-com-pfmn8c25",
+    "options": {
+        "url": "https://www.51qianduan.com/uploadfile/article/1611/09/894/index.html",
+        "index": "index.html",
+        "domain": "www.51qianduan.com",
+        "origin": "https://www.51qianduan.com",
+        "ipaddress": "58.211.137.25",
+        "originURL": "https://www.51qianduan.com/uploadfile/article/1611/09/894/index.html",
+        "filenameGenerator": "byType",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/",
+                "cookie": "__yjs_duid=1_6b760453ae3f4edc8555e626388391ad1621050438476; __cfduid=dabb127b194780777b33573e2cf80d17b1621055991; PHPSESSID=1v8clrslij6e1me1c5kg3j8oe9"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "date": "Tue, 18 May 2021 05:08:05 GMT",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Sun, 29 Mar 2020 03:51:11 GMT",
+                "vary": "Accept-Encoding",
+                "cf-cache-status": "DYNAMIC",
+                "cf-request-id": "0a1f78d46100004386b0ac1000000001",
+                "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+                "report-to": "{\"group\":\"cf-nel\",\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=5blOhneZCyX0c7ZTgdJBuPdMvaKbXHAhQFZvmqYd3rowXpCeXwXXBR6fNvrDyrEn1DPRqYfJCmrUlghwVHgbMSCtHwBn1d%2FkEKBqxBg4hgDfdiI%3D\"}],\"max_age\":604800}",
+                "nel": "{\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "server": "yunjiasu-nginx",
+                "cf-ray": "651290cd6dcb4386-SZV",
+                "content-encoding": "gzip"
+            }
+        }
+    },
+    "user": {
+        "isWhite": false
+    },
+    "formatter": [
+        "saveOriginal"
+    ],
+    "time": {
+        "start": 1621314483441,
+        "end": 1621314486246,
+        "spend": 2.805
+    }
+}
